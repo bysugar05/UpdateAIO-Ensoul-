@@ -12,8 +12,6 @@
   Zed is Back Bitches = Update<br>
 
 - <b>Slutyn's Scripts Update</b><br>
-  SlutynGaren = Update<br>
   SlutynLeona = Update<br>
   SutynKatarina = Update<br>
-  SutynSoraka = Update<br>
   Definitely_not_BaseUlt = Update<br>
