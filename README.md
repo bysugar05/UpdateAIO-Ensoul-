@@ -12,6 +12,7 @@
   Zed is Back Bitches = Update<br>
 
 - <b>Slutyn's Scripts Update</b><br>
-  Slutyn Garen = Update<br>
-  Slutyn Leona = Update<br>
-  Creazy Soraka = Update<br>
+  SlutynGaren = Update<br>
+  SlutynLeona = Update<br>
+  SutynKatarina = Update<br>
+  SutynSoraka = Update<br>
