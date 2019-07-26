@@ -10,3 +10,8 @@
   KDA_Akali = Update<br>
   Rengar = Update<br>
   Zed is Back Bitches = Update<br>
+
+- <b>Slutyn's Scripts Update</b><br>
+  Slutyn Garen = Update<br>
+  Slutyn Leona = Update<br>
+  Creazy Soraka = Update<br>
