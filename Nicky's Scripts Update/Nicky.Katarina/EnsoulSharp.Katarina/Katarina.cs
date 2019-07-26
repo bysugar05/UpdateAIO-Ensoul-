@@ -1,4 +1,4 @@
-﻿namespace EnsoulSharp.Katarina
+namespace EnsoulSharp.Katarina
 {
     using System;
     using System.Collections.Generic;
